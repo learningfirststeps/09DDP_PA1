@@ -1,0 +1,13 @@
+Documentation:
+
+This is a test application to unilize "shiny".
+
+Enter date of your birthday in YYYY-MM-DD format or use the pop-up window appearing once you click the input window.The application takes the date entered and returns a weekday of your birthday in English.
+
+Enter your height in centimeter. The dafault value is 150. Minimum is 0 and maximum is set to 300.
+Enter your weight in kilogram. The dafault value is 50. Minimum is 0 and maximum is set to 400.
+The application calculates then the Body mass index (BMI) as provided weight divided by the square of provided height [ex. kg/m^2]. Note: the height is divided by 100 in order to convert to meters.
+
+According to http://en.wikipedia.org/wiki/Body_mass_index normal range of BMI is 18.5 to 25 kg/m^2. This the ideal weight range in kilogram is calculated as 18.5*(provided height/100)^2 and 25*(provided height/100)^2. 
+
+Disclaimer: note that it all depends and one should better consult a doctor for particular recommendations!'. Don't use these figures without consulting your doctor!
